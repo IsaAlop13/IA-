@@ -10,3 +10,5 @@ print("Resultado suma=",a+b)
 print("Resultado resta=",a-b)
 print("Resultado multiplicación=",a*b)
 print("Resultado división=",a//b)
+print("Resultado división=",a//b)
+
